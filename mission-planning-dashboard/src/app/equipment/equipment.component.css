@@ -1,0 +1,9 @@
+h3 {
+    color: rgb(135, 68, 194);
+    text-decoration: underline;
+    text-align: center;
+}
+li {
+    text-align: left;
+    color: purple;
+}

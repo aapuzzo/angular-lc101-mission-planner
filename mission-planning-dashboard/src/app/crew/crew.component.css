@@ -1,0 +1,9 @@
+h3 {
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+li {
+    text-align: left;   
+    color: yellow;
+}
